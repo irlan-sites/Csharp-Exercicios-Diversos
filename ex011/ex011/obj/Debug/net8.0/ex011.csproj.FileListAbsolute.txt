@@ -1,0 +1,14 @@
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\bin\Debug\net8.0\ex011.exe
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\bin\Debug\net8.0\ex011.deps.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\bin\Debug\net8.0\ex011.runtimeconfig.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\bin\Debug\net8.0\ex011.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\bin\Debug\net8.0\ex011.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\obj\Debug\net8.0\ex011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\obj\Debug\net8.0\ex011.AssemblyInfoInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\obj\Debug\net8.0\ex011.AssemblyInfo.cs
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\obj\Debug\net8.0\ex011.csproj.CoreCompileInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\obj\Debug\net8.0\ex011.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\obj\Debug\net8.0\refint\ex011.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\obj\Debug\net8.0\ex011.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\obj\Debug\net8.0\ex011.genruntimeconfig.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\w3resource\basico\ex011\ex011\obj\Debug\net8.0\ref\ex011.dll
